@@ -5,6 +5,7 @@ encoding: UTF-8
 
 title:   'Codeleft'
 path:    /codeleft
+baseurl: ""
 url:     'http://codeleft.org'
 author:
   name:  'Codeleft'
