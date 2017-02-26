@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+title:   'Codeleft'
+url:     'http://johhoi.github.io/codeleft'
+author:
+  name:  'Codeleft'
