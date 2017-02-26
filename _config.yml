@@ -4,3 +4,21 @@ title:   'Codeleft'
 url:     'http://johhoi.github.io/codeleft'
 author:
   name:  'Codeleft'
+
+#######
+# more settings
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+permalink: /:title.html
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
