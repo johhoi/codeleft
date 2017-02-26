@@ -16,11 +16,5 @@ sass:
   sass_dir: css
   style:    expanded
 
-permalink: /:index.html
-
 exclude:
 - README.md
-
-
-safe: true
-lsi: false
