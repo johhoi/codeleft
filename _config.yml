@@ -1,6 +1,8 @@
-theme: jekyll-theme-minimal
+###########
+# site.title, site.url, site.author.name
 
 title:   'Codeleft'
+path:    /codeleft
 url:     'http://johhoi.github.io/codeleft'
 author:
   name:  'Codeleft'
