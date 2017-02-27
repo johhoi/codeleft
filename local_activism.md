@@ -3,6 +3,6 @@ layout: default
 title: Local Activism
 ---
 
-Here you can find local activism. Currently just for one place in SWEDEN, so please help out!
+Here you can find local activism. Currently just listing one place in Sweden, so please help out!
 
 [Sparvnästet](http://sparvnastet.org)
