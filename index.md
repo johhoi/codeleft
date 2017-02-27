@@ -3,8 +3,4 @@ layout: default
 title: Codeleft
 ---
 
-# Welcome!
-
-
-## Some links
-[First]({{ site.baseurl }}{% post_url 2017-02-26-first %})
+CodeLeft - a left leaning political think tank for code - A codetank
