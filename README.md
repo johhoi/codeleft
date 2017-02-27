@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to CodeLeft
+CodeLeft is about coding and where it crosses the political left. It is a starting point for on the one hand help people already decided to find out how they can help out and on the other hand to invigorate people to actually get involved.
 
-You can use the [editor on GitHub](https://github.com/johhoi/codeleft/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The idea of this site is to collect and link code projects that either are directly political or that could be a tool for people being directly political.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Please help out
+This project will require input from a lot of people if it is to flourish, so please help out if you can!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johhoi/codeleft/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### How it is built
+CodeLeft uses Github Pages which is running Jekyll. Jekyll translates Markdown files into HTML which are then hosted by Github Pages. 
