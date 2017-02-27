@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# About
+# About CodeLeft
 
 This site is about coding and where it crosses the political left. It is a starting point for on the one hand help people already decided to find out how they can help out and on the other hand to invigorate people to actually get involved.
 
