@@ -3,7 +3,7 @@ CodeLeft is about coding and where it crosses the political left. It is a starti
 
 The idea of this site is to collect and link code projects that either are directly political or that could be a tool for people being directly political.
 
-## Please help out
+### Please help out
 This project will require input from a lot of people if it is to flourish, so please help out if you can!
 
 ### How it is built
