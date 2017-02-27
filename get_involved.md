@@ -2,7 +2,7 @@
 layout: default
 title: Get Involved!
 ---
-This page lists code projects for the political left that are already up and running. This list is too short, please help out! Either through getting involved in this [page directly](https://github.com/johhoi/codeleft/) or contact us on twitter!
+This page lists code projects for the political left that are already up and running. This list is too short, please help out! Either through getting involved in this [page directly](https://github.com/johhoi/codeleft/) or contact us on twitter[@codeleft_org](https://twitter.com/Codeleft_org)!
 
 # Code projects
 #### [Linux](https://en.wikipedia.org/wiki/Linux)
