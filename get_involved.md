@@ -12,3 +12,5 @@ Microsoft and Apple controls a whole lot of computers through their Windows and 
 Democratization of knowledge? 
 #### [Diaspora](https://diasporafoundation.org/)
 Facebook has almost come to monopolize social communication. Diaspora is one way to take the control back to the people.
+#### [Gendercounter](https://github.com/christopherkullenberg/gendercounter)
+A program for counting the occurrence of male and female Swedish names in a text file
