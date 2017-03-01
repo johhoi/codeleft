@@ -9,6 +9,9 @@ This site is about coding and where it crosses the political left. It is a start
 
 The idea of this site is to collect and link code projects that either are directly political or that could be a tool for people being directly political. 
 
+This is about real issues for the future of our society and even though the domain name CodeLeft was short and sweet, this is really a place for **Socialist Software**.
+
+
 #### FAQ
 **Q1. I know of a code project but it is for illegal purposes, will you add it?**
     
