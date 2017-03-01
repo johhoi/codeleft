@@ -9,3 +9,7 @@ This site is about coding and where it crosses the political left. It is a start
 
 The idea of this site is to collect and link code projects that either are directly political or that could be a tool for people being directly political. 
 
+#### FAQ
+**Q1. I know of a code project but it is for illegal purposes, will you add it?**
+    
+A1. No, even though a project's sentiment might be true to a political left this site focuses on legal code
