@@ -3,4 +3,18 @@ layout: default
 title: Codeleft
 ---
 
-CodeLeft - a left leaning political think tank for code - A code tank
+CodeLeft - a left leaning political think tank for code - A code-tank
+
+
+*Posts from the blog*
+{% for post in site.posts %}
+
+<div>
+  {{ post.date | date: "%b %-d, %Y" }}
+    »
+  <span class='post-title'>
+    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+  </span>
+</div>
+
+{% endfor %}
