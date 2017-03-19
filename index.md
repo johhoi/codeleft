@@ -3,13 +3,13 @@ layout: default
 title: Codeleft
 ---
 
-CodeLeft - a left leaning political think tank for code - A code-tank
+## CodeLeft - a left leaning political think tank for code - A code-tank
 
 
 
 
 
-** The latest posts from the blog **
+#### The latest posts from the blog
 {% for post in site.posts %}
 
 <div>
