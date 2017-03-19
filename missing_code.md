@@ -16,4 +16,4 @@ Here are some ideas, maybe one of them could be initiated by you?
 
 # Projects looking for developers
 * LEAP
-    - LEAP is dedicated towards giving all internet users access to secure communication. They have a list of different topics that would beneficial to the community if any knowledgeable developer were to try their hands at it. More information here https://leap.se/en/docs/get-involved/project-ideas. 
+    - LEAP is dedicated towards giving all internet users access to secure communication. They have a list of different topics that would beneficial to the community if any knowledgeable developer were to try their hands at it. More information here [LEAP Project Ideas](https://leap.se/en/docs/get-involved/project-ideas).
