@@ -233,3 +233,68 @@ table {
 .post-date {
   color: $post-date-color;  
 }
+
+
+/************************************************************************/
+/*    Media Queries
+/*
+/************************************************************************/
+
+
+
+
+@media screen and (max-width: 1000px) {
+  body {
+    font-size: 130%;
+    padding: 0 4em;
+  }
+  .post code {
+    font-size: 85%;
+  }
+
+  pre code {
+    line-height: 1.6em;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  body {
+    font-size: 125%;
+    padding: 0 1.5em;
+  }
+
+  .post code {
+    font-size: 80%;
+  }
+
+  pre code {
+    font-size: 80%;
+  }
+}
+
+
+@media screen and (max-width: 500px) {
+  body {
+    font-size: 120%;
+    padding: 0 0.5em;
+  }
+
+  .footer {
+    text-align: center;
+    padding: 1em;
+  }
+
+  .contact {
+    width: 100%;
+  }
+
+  .post code {
+    font-size: 85%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  body {
+    padding: 0;
+  }
+}
