@@ -4,12 +4,12 @@ title: Codeleft
 ---
 
 ## CodeLeft 
-a left leaning political think tank for code -- A _code-tank_
+a left leaning political think tank for code  
+-- A _code-tank!_  
 
-
-
-
-
+  
+  
+  
 #### The latest posts from the blog
 {% for post in site.posts %}
 
