@@ -5,7 +5,7 @@ title: Get Involved!
 # Get Involved
 This page lists open source code projects for the political left that are already up and running. 
 
-This list is too short and needs further input, so please help out! If you want you can suggest edits to this page directly through [https://github.com/johhoi/codeleft/](https://github.com/johhoi/codeleft/) or make contact on twitter ([@codeleft_org](https://twitter.com/Codeleft_org)).
+This list is too short and needs further input, so please help out! If you want you can suggest edits to this page directly in [GitHub](https://github.com/johhoi/codeleft/) or reach out on twitter ([@codeleft_org](https://twitter.com/Codeleft_org)).
 
 # Code projects
 #### [Linux](https://en.wikipedia.org/wiki/Linux)
