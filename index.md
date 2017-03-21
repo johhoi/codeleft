@@ -7,9 +7,9 @@ title: Codeleft
 a left leaning political think tank for code  
 -- A _code-tank!_  
 
-  
-  
-  
+&nbsp;
+&nbsp;
+
 #### The latest posts from the blog
 {% for post in site.posts %}
 
