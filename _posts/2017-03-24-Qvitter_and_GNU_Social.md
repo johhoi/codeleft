@@ -1,6 +1,9 @@
-# Qvitter and GNU Social
+---
+title: Qvitter and GNU Social
+layout: post
+---
 
-Qvitter and GNU Social combines to enable a free microblog. It is a replication of Twitter but without the commercial aspects. 
+Qvitter and GNU Social is combined into a free microblog. It is a replication of Twitter but without the commercial aspects. 
 
 Quitter is based on open source software and it is a combination of the platform [GNU Social](https://gnu.io/social/) and a UI [Qvitter](https://git.gnu.io/h2p/Qvitter).
 
