@@ -16,5 +16,5 @@ Democratization of knowledge?
 Facebook has almost come to monopolize social communication. Diaspora is one way to take the control back to the people.
 #### [Gendercounter](https://github.com/christopherkullenberg/gendercounter)
 A program for counting the occurrence of male and female Swedish names in a text file
-#### [Qvitter and GNU Social](site.baseurl/Qvitter_and_GNU_Social.html)
+#### [Qvitter and GNU Social](/Qvitter_and_GNU_Social.html)
 A free microblog, basically a replication of Twitter but without the commercial aspects. 
