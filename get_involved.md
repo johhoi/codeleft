@@ -8,6 +8,8 @@ This page lists open source code projects for the political left that are alread
 This list is too short and needs further input, so please help out! If you want you can suggest edits to this page directly in [GitHub](https://github.com/johhoi/codeleft/) or reach out on twitter ([@codeleft_org](https://twitter.com/Codeleft_org)).
 
 ## Code projects
+#### [Zetkin](http://zetkin.org/en/)
+A tool for organizing activism more efficiently. 
 #### [Linux](https://en.wikipedia.org/wiki/Linux)
 Microsoft and Apple controls a whole lot of computers through their Windows and MacOS system respectively. Linux is the counterpart. 
 #### [Wikipedia](https://www.mediawiki.org/wiki/MediaWiki)
