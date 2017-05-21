@@ -1,5 +1,5 @@
 ---
-title: Zetkin - A platform for activism
+title: Zetkin - Efficient activism
 layout: post
 ---
 
