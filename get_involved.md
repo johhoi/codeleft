@@ -10,13 +10,13 @@ This list is too short and needs further input, so please help out! If you want 
 ## Code projects
 #### [Zetkin](http://zetkin.org/en/)
 A tool for organizing activism more efficiently. 
-#### [Linux](https://en.wikipedia.org/wiki/Linux)
-Microsoft and Apple controls a whole lot of computers through their Windows and MacOS system respectively. Linux is the counterpart. 
-#### [Wikipedia](https://www.mediawiki.org/wiki/MediaWiki)
-Democratization of knowledge? 
-#### [Diaspora](https://diasporafoundation.org/)
-Facebook has almost come to monopolize social communication. Diaspora is one way to take the control back to the people.
-#### [Gendercounter](https://github.com/christopherkullenberg/gendercounter)
-A program for counting the occurrence of male and female Swedish names in a text file
 #### [Qvitter and GNU Social](/Qvitter_and_GNU_Social.html)
 A free microblog, basically a replication of Twitter but without the commercial aspects. 
+#### [Gendercounter](https://github.com/christopherkullenberg/gendercounter)
+A program for counting the occurrence of male and female Swedish names in a text file
+#### [Diaspora](https://diasporafoundation.org/)
+Facebook has almost come to monopolize social communication. Diaspora is one way to take the control back to the people.
+#### [Wikipedia](https://www.mediawiki.org/wiki/MediaWiki)
+Democratization of knowledge? 
+#### [Linux](https://en.wikipedia.org/wiki/Linux)
+Microsoft and Apple controls a whole lot of computers through their Windows and MacOS system respectively. Linux is the counterpart. 
